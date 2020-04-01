@@ -12,7 +12,7 @@ export default function Home() {
 
      return (
           <View style={styles.container}>
-               <Text>Home</Text>
+               <Text>oi</Text>
                <TouchableOpacity onPress={navigateToNews} style={styles.button}>
                     <Text>News</Text>
                </TouchableOpacity>
