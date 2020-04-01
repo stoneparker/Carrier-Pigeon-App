@@ -23,6 +23,7 @@ API feita em Node.js, por mim, com armazenamento em banco de dados **SQLite**.
 - [ ] Fltragem de notícias de acordo com categoria selecionada
 - [ ] Filtragem de notícias de acordo com país selecionado
 - [ ] Busca de notícia com base em palavra chave
+- [ ] Reload de notícias
 - [ ] Compartilhamento de notícia em rede social
 - [ ] Exibição do conteúdo da notícia em página específica
 - [ ] "Ler mais" em WebView
