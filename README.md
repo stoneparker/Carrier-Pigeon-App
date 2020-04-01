@@ -1,2 +1,18 @@
 # Carrier-Pigeon-App
-App de notícias feito com React Native.
+App que apresenta as principais e últimas notícias de todo o mundo, de acordo com a escolha do usuário, através de consultas a APIs externas.
+
+## Tecnologias
+- **React Native** (Front-end)
+- **Node.js** (Back-end)
+
+## APIs
+### Armazenamento de informações do usuário (interesses, notícias salvas)
+API feita em Node.js, por mim, com armazenamento em banco de dados **SQLite**.
+
+### Notícias
+https://newsapi.org/
+
+### Consulta do nome dos países com base na ISO 3166-1 alpha-2
+https://restcountries.eu/
+
+## Funcionalidades
