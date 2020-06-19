@@ -1,6 +1,8 @@
 # Carrier-Pigeon-App
 App que apresenta as principais e últimas notícias de todo o mundo, de acordo com a escolha do usuário, através de consultas a APIs externas.
 
+> 🚧 Construção temporariamente pausada 🚧
+
 ## Tecnologias
 - **React Native** (Front-end)
 - **Node.js** (Back-end)
